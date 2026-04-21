@@ -2,6 +2,11 @@ public class WithoutString {
     public static void main(String[] args) {
 
 
+        String str = "Hello there";
+        String str1 = "llo";
+
+
+        System.out.println(withoutString(str,str1));
 
 
     }
