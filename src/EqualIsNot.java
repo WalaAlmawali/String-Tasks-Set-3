@@ -6,4 +6,13 @@ public class EqualIsNot {
 
     }
 
+    public boolean equalIsNot(String str){
+
+
+
+
+
+
+    }
+
     }
