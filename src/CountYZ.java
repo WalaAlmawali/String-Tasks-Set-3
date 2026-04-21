@@ -1,6 +1,8 @@
 public class CountYZ {
     public static void main(String[] args) {
 
+        String str = "fez day";
+        System.out.println(countYZ(str));
 
     }
 
