@@ -6,4 +6,13 @@ public class WithoutString {
 
     }
 
+
+    public static String withoutString(String str, String str1) {
+
+
+
+
+
+    }
+
     }
