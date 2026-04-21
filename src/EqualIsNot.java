@@ -17,6 +17,10 @@ public class EqualIsNot {
                 isCount++;
             }
 
+            if (str.substring(i, i + 3).equals("not")) {
+                notCount++;
+            }
+
 
 
     }
