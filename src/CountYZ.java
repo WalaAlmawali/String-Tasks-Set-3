@@ -8,6 +8,10 @@ public class CountYZ {
 
     public static int countYZ(String str ){
 
+        str= str.toLowerCase();
+
+
+
 
 
 
