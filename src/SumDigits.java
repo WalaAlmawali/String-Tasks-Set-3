@@ -7,9 +7,7 @@ public class SumDigits {
     }
     public int sumDigits(String str) {
 
-
-
-
+        int sum = 0;
 
     }
 
