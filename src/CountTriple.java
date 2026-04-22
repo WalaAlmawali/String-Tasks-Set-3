@@ -5,4 +5,11 @@ public class CountTriple {
 
     }
 
+    public int countTriple(String str) {
+
+
+
+
+    }
+
     }
