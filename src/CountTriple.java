@@ -6,7 +6,7 @@ public class CountTriple {
     }
 
     public int countTriple(String str) {
-
+        int count = 0;
 
 
 
