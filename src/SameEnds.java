@@ -12,6 +12,7 @@ public class SameEnds {
 
         for(int i = strLen / 2; i<0;i--){
 
+            String start = str.substring(0,i);
 
         }
 
