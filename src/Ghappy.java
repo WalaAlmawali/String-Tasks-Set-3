@@ -5,5 +5,11 @@ public class Ghappy {
 
 
     }
+    public boolean gHappy(String str){
+
+
+
+
+    }
 
     }
