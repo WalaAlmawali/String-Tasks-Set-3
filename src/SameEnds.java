@@ -10,7 +10,10 @@ public class SameEnds {
     public String sameEnds(String str) {
         int strLen = str.length();
 
+        for(int i = strLen / 2; i<0;i--){
 
+
+        }
 
 
     }
