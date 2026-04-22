@@ -7,6 +7,12 @@ public class Ghappy {
     }
     public boolean gHappy(String str){
 
+        boolean happy = false;
+
+        for(int i =0 ; i<str.length()- 1;i++){
+
+
+        }
 
 
 
