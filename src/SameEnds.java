@@ -4,6 +4,15 @@ public class SameEnds {
 
 
 
+
     }
+
+    public String sameEnds(String str) {
+
+
+
+
+    }
+
 
     }
