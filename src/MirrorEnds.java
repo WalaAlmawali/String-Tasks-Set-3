@@ -6,4 +6,10 @@ public class MirrorEnds {
 
     }
 
+    public String mirrorEnds(String str) {
+
+
+
+    }
+
     }
