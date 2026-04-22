@@ -5,4 +5,11 @@ public class SumNumbers {
 
     }
 
+    public int sumNumbers(String str) {
+
+
+
+
+    }
+
     }
