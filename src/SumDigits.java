@@ -5,5 +5,12 @@ public class SumDigits {
 
 
     }
+    public int sumDigits(String str) {
+
+
+
+
+
+    }
 
     }
