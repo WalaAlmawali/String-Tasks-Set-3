@@ -8,6 +8,7 @@ public class SameEnds {
     }
 
     public String sameEnds(String str) {
+        int strLen = str.length();
 
 
 
