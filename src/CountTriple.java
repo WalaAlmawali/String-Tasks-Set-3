@@ -1,6 +1,9 @@
 public class CountTriple {
     public static void main(String[] args) {
 
+        CountTriple ex = new CountTriple();
+        System.out.println(ex.countTriple("xxxabyyyycd"));
+
 
 
     }
