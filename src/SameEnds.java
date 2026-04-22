@@ -15,11 +15,12 @@ public class SameEnds {
             String start = str.substring(0,i);
             String last = str.substring(i,strLen);
 
+            if(start == last){
+                return start;
+            }
 
         }
-
-
+        return "";
     }
-
 
     }
