@@ -2,6 +2,8 @@ public class SumNumbers {
     public static void main(String[] args) {
 
 
+        SumNumbers ex = new SumNumbers();
+        System.out.print(ex.sumNumbers("7 11"));
 
     }
 
