@@ -8,6 +8,9 @@ public class MirrorEnds {
 
     public String mirrorEnds(String str) {
 
+        for(int i = 0; i< str.length();i++){
+
+        }
 
 
     }
