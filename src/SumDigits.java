@@ -9,6 +9,11 @@ public class SumDigits {
 
         int sum = 0;
 
+        for (int i = 0; i < str.length(); i++) {
+
+
+        }
+
     }
 
     }
