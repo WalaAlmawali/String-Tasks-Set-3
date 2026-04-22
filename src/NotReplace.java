@@ -5,5 +5,11 @@ public class NotReplace {
 
 
     }
+    public String notReplace(String str) {
+
+
+
+
+    }
 
     }
