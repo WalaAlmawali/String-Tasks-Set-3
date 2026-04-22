@@ -1,21 +1,20 @@
 public class SameEnds {
     public static void main(String[] args) {
 
-
-
-
+        SameEnds ex = new SameEnds();
+        System.out.print(ex.sameEnds("abXYab"));
 
     }
 
     public String sameEnds(String str) {
         int strLen = str.length();
 
-        for(int i = strLen / 2; i<0;i--){
+        for(int i = strLen / 2; i>0 ;i--){
 
             String start = str.substring(0,i);
-            String last = str.substring(i,strLen);
+            String last = str.substring(strLen - i);
 
-            if(start == last){
+            if(start.equals(last)){
                 return start;
             }
 
@@ -23,4 +22,4 @@ public class SameEnds {
         return "";
     }
 
-    }
+ }
