@@ -7,9 +7,15 @@ public class NotReplace {
     }
     public String notReplace(String str) {
 
+        for (int i = 0; i < str.length(); i++) {
 
 
 
-    }
+        }
+
+
+
+
+        }
 
     }
